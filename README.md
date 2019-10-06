@@ -1,6 +1,6 @@
 # os_intra-annual
 DataSet for manuscript "Decomposing the intra-annual variability of flushing characteristics in a tidal bay along the North Sea"
-Authors: Long Jianga, Karline Soetaert, Theo Gerkema
+Authors: Long Jiang, Karline Soetaert, Theo Gerkema
 
 This respository includes data of 30 model scenarios used in the manuscript . Due to the file size limit, we have splitted data each scenario into several sub-files, which should be merged upon usage. Each file name is named "scenario name"+".7z."+"subfile number". For example, "STA10.7z.011" means the 11th file of the scenario STA10. The scenario names and other details could be found in Table 1 of the manuscript (see below). The model setup is available on request. The contact person is Long Jiang long.jiang@nioz.nl.
 
